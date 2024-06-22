@@ -1,0 +1,21 @@
+body {
+    margin: 0px;
+    background-color: rgb(255, 239, 206) !important;
+  }
+  
+  .video {
+    margin: 0px;
+    height: 50vh;
+    overflow-y: hidden;
+    overflow-wrap: normal;
+  }
+  
+  .card {
+    height: 450px !important;
+  }
+  
+  .card img {
+    height: 250px;
+  }
+  
+  
